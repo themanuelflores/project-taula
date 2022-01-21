@@ -1,0 +1,14 @@
+{
+  "CQ6151GPQ": {
+    "name": "kona-hq",
+    "private": false
+  },
+  "C018D9GPLQM": {
+    "name": "kona-advisors",
+    "private": true
+  },
+  "C02G748DT5L": {
+    "name": "private-test",
+    "private": true
+  }
+}
